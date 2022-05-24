@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yıldız</h1>
-<h3 align="center">I'm Yıldız from Turkey, I am a 3rd year Management Information Systems student at Karadeniz Technical University.</h3>
+<h3 align="center">I'm from Turkey, I am a 3rd year Management Information Systems student at Karadeniz Technical University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yldz9&label=Profile%20views&color=0e75b6&style=flat" alt="yldz9" /> </p>
 
